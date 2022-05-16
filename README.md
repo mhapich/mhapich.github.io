@@ -9,7 +9,7 @@
 - I had to anonymize student identifiers to publish this notebook.  Because of this, the original csv file containing student names and id numbers is not included in this repo.
 
 <span style="color:darkgreen">Anonymizing data using Faker:</span>
-![Maintain student privacy ](https://github.com/mhapich/mhapich.github.io/blob/main/images/anonymize.PNG)
+<img src="https://github.com/mhapich/mhapich.github.io/blob/main/images/anonymize.PNG"/)
 <br>
 <span style="color:cyan">Use findings to help guidance fix data entry mistakes:</span>
 ![Some main findings for admin](https://github.com/mhapich/mhapich.github.io/blob/main/images/fix_anomalies.PNG)
