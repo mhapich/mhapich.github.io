@@ -9,11 +9,11 @@
 - I had to anonymize student identifiers to publish this notebook.  Because of this, the original csv file containing student names and id numbers is not included in this repo.
 
 <span style="color:darkgreen">Anonymizing data using Faker:</span>
-![Use of faker](/Images/anonymize.PNG)
+![Use of faker](/Assests/Images/anonymize.PNG)
 <br>
 <span style="color:cyan">Use findings to help guidance fix data entry mistakes:</span>
-![Some main findings for admin](/Images/fix_anomalies.PNG)
+![Some main findings for admin](/Assests/Images/fix_anomalies.PNG)
 <br>
 <span style="color:cyan">Some exploratory data analysis:</span>
-![EDA](/Images/EDA.PNG)
-![](/Images/gpa.PNG)
+![EDA](/Assests/Images/EDA.PNG)
+![](/Assests/Images/gpa.PNG)
