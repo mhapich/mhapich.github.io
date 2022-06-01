@@ -15,7 +15,7 @@
 ![EDA](/Assests/Images/EDA.PNG)
 ![](/Assests/Images/gpa.PNG)
 <br>
-<span style="color:cyan">One of the data entry mistakes:</span>
+<span style="color:#0086b3">One of the data entry mistakes:</span>
 ![Some main findings for admin](/Assests/Images/fix_anomalies.PNG)
 <br>
 
