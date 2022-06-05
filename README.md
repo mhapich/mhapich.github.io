@@ -7,13 +7,14 @@
 - Additional information about each brand includes whether it is vegan, if it is black-owned, and if its parent company is also cruelty-free
 - There will be a dashboard containing the table of all products along with which retailers (out of five from [Logical Harmony](https://logicalharmony.net/) sell them.
 
-![logo](/Assests/Images/logo.PNG)
+<img src="https://github.com/mhapich/mhapich.github.io/blob/main/Assests/Images/logo.PNG" width="800">
 
 <span style="color:#0086b3">Exploring the cruelty-free companies:</span>
 
-[[https://github.com/mhapich/mhapich.github.io/blob/main/Assests/Images/black-owned.PNG|width=400px]]
-<img src="https://github.com/mhapich/mhapich.github.io/blob/main/Assests/Images/black-owned.PNG" width="400">
-![parent-company](/Assests/Images/parent_co.PNG)
+<img src="https://github.com/mhapich/mhapich.github.io/blob/main/Assests/Images/black-owned.PNG" width="600">
+
+<span style="color:#0086b3">Plotly graphs are interactive within the notebook!</span>
+<img src="https://github.com/mhapich/mhapich.github.io/blob/main/Assests/Images/parent_co.PNG" width="800">
 
 # Project 2: Data cleaning for district students' transcripts
 
