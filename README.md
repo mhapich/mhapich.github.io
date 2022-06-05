@@ -1,7 +1,15 @@
 # Michelle Hapich's Portfolio
-** Stay tuned for Project 1 - coming soon!! **
 
 # Project 1: Cruelty-Free Company List
+## [Cruelty Free Cosmetic Brands](https://github.com/mhapich/cruelty_free_products.git)
+
+- This notebook will pull the latest list of cruelty-free brands from the website [Logical Harmony](https://logicalharmony.net/cruelty-free-brand-list/).
+- Additional information about each brand includes whether it is vegan, if it is black-owned, and if its parent company is also cruelty-free
+- I am currently working to include retailers that carry each brand, and a dashboard (using Dash) where users can search a brand to find this information
+
+[](/images/logo.PNG)
+[](/images/black-owned.PNG)
+[](/images/parent_co.PNG)
 
 # Project 2: Data cleaning for district students' transcripts
 
