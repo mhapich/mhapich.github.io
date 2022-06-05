@@ -7,7 +7,7 @@
 - Additional information about each brand includes whether it is vegan, if it is black-owned, and if its parent company is also cruelty-free
 - There will be a dashboard containing the table of all products along with which retailers (out of five from [Logical Harmony](https://logicalharmony.net/) sell them.
 
-<img src="https://github.com/mhapich/mhapich.github.io/blob/main/Assests/Images/logo.PNG" width="800">
+<img src="Assests/Images/logo.PNG" width="800">
 
 <span style="color:#0086b3">Exploring the cruelty-free companies:</span>
 
