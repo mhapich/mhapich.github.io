@@ -7,9 +7,9 @@
 - Additional information about each brand includes whether it is vegan, if it is black-owned, and if its parent company is also cruelty-free
 - I am currently working to include retailers that carry each brand, and a dashboard (using Dash) where users can search a brand to find this information
 
-[](/Assests/Images/logo.PNG)
-[](/Assests/Images/black-owned.PNG)
-[](/Assests/Images/parent_co.PNG)
+![logo](/Assests/Images/logo.PNG)
+![black-owned](/Assests/Images/black-owned.PNG)
+![parent-company](/Assests/Images/parent_co.PNG)
 
 # Project 2: Data cleaning for district students' transcripts
 
