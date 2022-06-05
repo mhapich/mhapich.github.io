@@ -12,6 +12,7 @@
 <span style="color:#0086b3">Exploring the cruelty-free companies:</span>
 
 [[https://github.com/mhapich/mhapich.github.io/blob/main/Assests/Images/black-owned.PNG|width=400px]]
+<img src="https://github.com/mhapich/mhapich.github.io/blob/main/Assests/Images/black-owned.PNG" width="400">
 ![parent-company](/Assests/Images/parent_co.PNG)
 
 # Project 2: Data cleaning for district students' transcripts
