@@ -11,10 +11,10 @@
 
 <span style="color:#0086b3">Exploring the cruelty-free companies:</span>
 
-<img src="https://github.com/mhapich/mhapich.github.io/blob/main/Assests/Images/black-owned.PNG" width="600">
+<img src="Assests/Images/black-owned.PNG" width="600">
 
 <span style="color:#0086b3">Plotly graphs are interactive within the notebook!</span>
-<img src="https://github.com/mhapich/mhapich.github.io/blob/main/Assests/Images/parent_co.PNG" width="800">
+<img src="Assests/Images/parent_co.PNG" width="800">
 
 # Project 2: Data cleaning for district students' transcripts
 
