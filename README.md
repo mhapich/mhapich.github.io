@@ -9,11 +9,11 @@
 
 <img src="Assests/Images/logo.PNG" width="800">
 
-<span style="color:#0086b3">Exploring the cruelty-free companies:</span>
+<span style="color:#630718">Exploring the cruelty-free companies:</span>
 
 <img src="Assests/Images/black-owned.PNG" width="600">
 
-<span style="color:#0086b3">Plotly graphs are interactive within the notebook!</span>
+<span style="color:#630718">Plotly graphs are interactive within the notebook!</span>
 <img src="Assests/Images/parent_co.PNG" width="800">
 
 # Project 2: Data cleaning for district students' transcripts
@@ -24,11 +24,11 @@
 - There were problems with some data in the SIS that were causing discrepancies in the class ranks.  I assisted the technology supervisor and guidance department in finding these problems.  I exported this notebook as a simple to navigate pdf with notes on students whose information needed changed.
 - I had to anonymize student identifiers to publish this notebook.  Because of this, the original csv file containing student names and id numbers is not included in this repo.
 
-<span style="color:#0086b3">Some topics for further analysis...</span>
+<span style="color:#630718">Some topics for further analysis...</span>
 ![EDA](/Assests/Images/EDA.PNG)
 ![](/Assests/Images/gpa.PNG)
 <br>
-<span style="color:#0086b3">One of the data entry mistakes:</span>
+<span style="color:#630718">One of the data entry mistakes:</span>
 ![Some main findings for admin](/Assests/Images/fix_anomalies.PNG)
 <br>
 
