@@ -3,12 +3,14 @@
 # Project 1: Cruelty-Free Company List
 ## [Cruelty Free Cosmetic Brands](https://github.com/mhapich/cruelty_free_products.git)
 
-- This notebook will pull the latest list of cruelty-free brands from the website [Logical Harmony](https://logicalharmony.net/cruelty-free-brand-list/).
+- This notebook pulls the latest list of cruelty-free brands from the website [Logical Harmony](https://logicalharmony.net/cruelty-free-brand-list/).
 - Additional information about each brand includes whether it is vegan, if it is black-owned, and if its parent company is also cruelty-free
-- I am currently working to include retailers that carry each brand, and a dashboard (using Dash) where users can search a brand to find this information
+- There will be a dashboard containing the table of all products along with which retailers (out of five from [Logical Harmony](https://logicalharmony.net/) sell them.
 
 ![logo](/Assests/Images/logo.PNG)
-![black-owned](/Assests/Images/black-owned.PNG)
+
+<span style="color:#0086b3">Exploring the cruelty-free companies:</span>
+![black-owned](/Assests/Images/black-owned.PNG|width=150)
 ![parent-company](/Assests/Images/parent_co.PNG)
 
 # Project 2: Data cleaning for district students' transcripts
