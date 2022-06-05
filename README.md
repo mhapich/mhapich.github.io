@@ -24,11 +24,11 @@
 - There were problems with some data in the SIS that were causing discrepancies in the class ranks.  I assisted the technology supervisor and guidance department in finding these problems.  I exported this notebook as a simple to navigate pdf with notes on students whose information needed changed.
 - I had to anonymize student identifiers to publish this notebook.  Because of this, the original csv file containing student names and id numbers is not included in this repo.
 
-<span style="color:#630718">Some topics for further analysis...</span>
+<span style="color:#8c150d">Some topics for further analysis...</span>
 ![EDA](/Assests/Images/EDA.PNG)
 ![](/Assests/Images/gpa.PNG)
 <br>
-<span style="color:#630718">One of the data entry mistakes:</span>
+<span style="color:#8c150d">One of the data entry mistakes:</span>
 ![Some main findings for admin](/Assests/Images/fix_anomalies.PNG)
 <br>
 
