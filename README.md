@@ -5,6 +5,7 @@
 
 - This notebook pulls the latest list of cruelty-free brands from the website [Logical Harmony](https://logicalharmony.net/cruelty-free-brand-list/).
 - Additional information about each brand includes whether it is vegan, if it is black-owned, and if its parent company is also cruelty-free
+- After scraping the products from multiple pages, I cleaned the data and put it into a dataset that I uploaded to [Kaggle](https://www.kaggle.com/datasets/mhapich/crueltyfree-brands)
 - There will be a dashboard containing the table of all products along with which retailers (out of five from [Logical Harmony](https://logicalharmony.net/)) sell them.
 
 <img src="Assests/Images/logo.PNG" width="800">
