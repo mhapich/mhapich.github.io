@@ -21,7 +21,6 @@ Here, you can search for a brand to find out more about it, or you can filter th
 
 <img src="Assests/Images/black-owned.PNG" width="600">
 
-<span style="color:#630718">Plotly graphs are interactive within the notebook!</span>
 <img src="Assests/Images/parent_co.PNG" width="800">
 
 # Project 2: Data cleaning for district students' transcripts
