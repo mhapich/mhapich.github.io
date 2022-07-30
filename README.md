@@ -14,10 +14,10 @@ My love of learning and passion for data science continues to motivate me to lea
 
 ### Please see my interactive Tableau dashboard: ###
 Here, you can search for a brand to find out more about it, or you can filter the lists to only see things like black-owned brands, or brands that have parent companies that do utilize animal testing on other products.
-<span style="color:#e60073"><b>[Cruelty-free products interactive tables](https://public.tableau.com/views/CrueltyFreeProducts/CrueltyFreeDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)</b></span>
+<span style="color:#e60073; font-size: 16px;"><b>[Cruelty-free products interactive tables](https://public.tableau.com/views/CrueltyFreeProducts/CrueltyFreeDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)</b></span>
 
 
-<span style="color:#630718">Exploring the cruelty-free companies:</span>
+<span style="color:#630718">Some screenshots of Jupyter notebook explorations done while creating and cleaning the data:</span>
 
 <img src="Assests/Images/black-owned.PNG" width="600">
 
