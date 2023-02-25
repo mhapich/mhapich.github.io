@@ -1,8 +1,8 @@
 # Michelle Hapich's Portfolio
 
 *A little note if you're stopping by...*<br>
-*Now that I am ready to start actively seeking employment in the data field, and since I have continued to gain valuable new skills,*<br>
-*I am adding new projects here.  They will also be based on my interests, but will all connect to each other to **tell a story**.*<br>
+*Now that I am ready to start actively seeking employment in the data field, and since I have continued to gain valuable new skills,
+I am adding new projects here.  They will also be based on my interests, but will all connect to each other to **tell a story**.*<br>
 *See you back here in May, 2023!*
 
 My love of learning and passion for data science continues to motivate me to learn new tools all the time.  While I am currently a high school math and computer science teacher, I regularly work on data science projects through Datacamp, on Kaggle, and independently. Therefore, to show my experience in this field, I am highlighting some of my work here.
