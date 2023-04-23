@@ -27,7 +27,14 @@ Here, you can search for a brand to find out more about it, or you can filter th
 
 <img src="Assests/Images/parent_co.PNG" width="800">
 
-# Project 2: Data cleaning for district students' transcripts
+# Project 2: Python to Tableau - Stock Market Prices
+## [Stock Market Data and Dashboard](https://github.com/mhapich/nasdaq)
+- In this repo you can see my Jupyter notebook, and also the many files that were containing the most recent stock prices and information up to that date.
+- Using Pandas, I created several of the features I would later be using in Tableau.
+- Here is a screenshot of my [Tableau interactive dashboard](https://public.tableau.com/views/StockMarketInteractiveDashboard/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) where you can change the dates and the company on which to focus.
+<img src="Assests/Images/stocksDashboard.png" width="800">
+
+# Project 3: Data cleaning for district students' transcripts
 
 ## [Transcript data cleaning](https://github.com/mhapich/transcript_cleaning.git)
 
@@ -44,10 +51,5 @@ Here, you can search for a brand to find out more about it, or you can filter th
 <br><br><br>
 
 
-# Project 3: Vegetarian and Vegan Restaurants
-- I started this project with a [Kaggle dataset](https://www.kaggle.com/datasets/datafiniti/vegetarian-vegan-restaurants), which was great for data analysis! However, when it came to finding meaningful insights on being able to predict success or failure of an establishment, this dataset did not contain any ratings, nor data on how long it was in operation or information on whether many of the places were still open.  In addition, this dataset contained many restaurants that were hot dog places, etc., that carried vegetarian or vegan options. I wanted my analysis to focus restaurants that are strictly vegetarian or vegan.
-- This is a map (Tableau) showing where the restaurants from the Kaggle dataset are located:
-<img src="Assests/Images/USAvegRestaurants.png" width="700">
 
-- I then switched to [Happy Cow](https://www.happycow.net/) and scraped data there for all vegetarian and vegan restaurants in the United States. I have personal experience with this website and its iPhone app as my kids and I recently used it to find vegan restaurants in Europe. It is a great community, and I am now able to pull restaurants that are purely vegan and vegetarian, rather than restaurants like KFC which now carry vegan options.
 
