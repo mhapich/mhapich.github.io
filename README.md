@@ -1,9 +1,5 @@
 # Michelle Hapich's Portfolio
 
-*A little note if you're stopping by...*<br>
-*Now that I am ready to start actively seeking employment in the data field, and since I have continued to gain valuable new skills,
-I am adding new projects here.  They will also be based on my interests, but will all connect to each other to **tell a story**.*<br>
-*See you back here in May, 2023!*
 
 My love of learning and passion for data science continues to motivate me to learn new tools all the time.  While I am currently a high school math and computer science teacher, I regularly work on data science projects through Datacamp, on Kaggle, and independently. Therefore, to show my experience in this field, I am highlighting some of my work here.
 
@@ -27,14 +23,23 @@ Here, you can search for a brand to find out more about it, or you can filter th
 
 <img src="Assests/Images/parent_co.PNG" width="800">
 
-# Project 2: Python to Tableau - Stock Market Prices
-## [Stock Market Data and Dashboard](https://github.com/mhapich/nasdaq)
+# Project 2: Student Data with Math Test Score Predictions
+## [End to End CI/CD Machine Learning Project](https://github.com/mhapich/CICDnewProject.git)
+- This was the project I used to learn to build a modular project, complete with a Flask app, and modules for data ingestion, data transformation, and model training.
+- The application can be deployed using continuous integration and continuous deployment pipelines in AWS cloud
+- The machine learning app can also be deployed using Github Actions with Azure App Service
+
+<img src="Assests/Images/flaskAppStudentPreds.png" width="800">
+
+
+# Project 3: Python to Tableau - Stock Market Prices
+## [Stock Market Data and Dashboard](https://github.com/mhapich/nasdaq.git)
 - In this repo you can see my Jupyter notebook, and also the many files that were containing the most recent stock prices and information up to that date.
 - Using Pandas, I created several of the features I would later be using in Tableau.
 - Here is a screenshot of my [Tableau interactive dashboard](https://public.tableau.com/views/StockMarketInteractiveDashboard/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) where you can change the dates and the company on which to focus.
 <img src="Assests/Images/stocksDashboard.png" width="800">
 
-# Project 3: Data cleaning for district students' transcripts
+# Project 4: Data cleaning for district students' transcripts
 
 ## [Transcript data cleaning](https://github.com/mhapich/transcript_cleaning.git)
 
