@@ -23,14 +23,16 @@ Here, you can search for a brand to find out more about it, or you can filter th
 
 <img src="Assests/Images/parent_co.PNG" width="800">
 
+<br><br>
+
 # Project 2: Student Data with Math Test Score Predictions
 ## [End to End CI/CD Machine Learning Project](https://github.com/mhapich/CICDnewProject.git)
-- This was the project I used to learn to build a modular project, complete with a Flask app, and modules for data ingestion, data transformation, and model training.
+- This was the project I used to learn modular coding, complete with a Flask app, and modules for data ingestion, data transformation, and model training.
 - The application can be deployed using continuous integration and continuous deployment pipelines in AWS cloud
 - The machine learning app can also be deployed using Github Actions with Azure App Service
 
 <img src="Assests/Images/flaskAppStudentPreds.png" width="800">
-
+<br><br>
 
 # Project 3: Python to Tableau - Stock Market Prices
 ## [Stock Market Data and Dashboard](https://github.com/mhapich/nasdaq.git)
@@ -38,6 +40,7 @@ Here, you can search for a brand to find out more about it, or you can filter th
 - Using Pandas, I created several of the features I would later be using in Tableau.
 - Here is a screenshot of my [Tableau interactive dashboard](https://public.tableau.com/views/StockMarketInteractiveDashboard/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) where you can change the dates and the company on which to focus.
 <img src="Assests/Images/stocksDashboard.png" width="800">
+<br><br>
 
 # Project 4: Data cleaning for district students' transcripts
 
