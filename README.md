@@ -17,9 +17,9 @@ Take a look!!
   - do other things I haven't thought of yet, but will as I continue down this path
 
 Here are some Seaborn plots from the notebook where I created the dataset:
-<img src="Assests/Images/channelSubs.PNG" width="800"> 
+<img src="Assests/Images/channelSubs.png" width="800"> 
 
-<img src="Assests/Images/channelVidTotals.PNG" width="800">
+<img src="Assests/Images/channelVidTotals.png" width="800">
 
 <br><br>
 
