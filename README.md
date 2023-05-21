@@ -15,6 +15,7 @@ Take a look!!
   - use a crime database to find locations for the crimes
   - create a new set with locations to be used in a Tableau analysis with mapped crimes
   - do other things I haven't thought of yet, but will as I continue down this path
+- The dataset is now shared on [Kaggle](https://www.kaggle.com/datasets/mhapich/true-crime-channel-statistics) for hopefully even more insights that I haven't thought of.
 
 Here are some Seaborn plots from the notebook where I created the dataset:
 <img src="Assests/Images/channelSubs.png" width="800"> 
