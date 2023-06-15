@@ -1,21 +1,19 @@
 # Michelle Hapich's Portfolio
 
+I am working on projects every day this summer.  If you would like to see updates to my work more often than my portfolio is updated, please visit [my GitHub](https://github.com/mhapich?tab=repositories).<br>
+If you have questions or would like to collaborate on anything, please message me on LinkedIn!
 
-Yep, I'm a high school math teacher - teaching AP Calculus AB and BC and AP Computer Science and Python. <br>
-So why hire me as your latex salesman?  ...I mean...Data Scientist? <br>
-Take a look!!
-(*also, if you're a Seinfeld fan, I had you at* latex salesman)
+
 
 # Project 1: True Crime YouTubers
 ## [True Crime YouTube Channel Statistics](https://github.com/mhapich/trueCrime)
-- This is just the beginning of this project!
-- I have gathered and compiled channel statistics of 21 of my favorite YouTube channels that regularly post true crime stories.
-- Where I am going from here:
-  - use NER NLP on Title column and also Description column to find the name of the "perpetrator" for each video
-  - use a crime database to find locations for the crimes
-  - create a new set with locations to be used in a Tableau analysis with mapped crimes
-  - do other things I haven't thought of yet, but will as I continue down this path
-- The dataset is now shared on [Kaggle](https://www.kaggle.com/datasets/mhapich/true-crime-channel-statistics) for hopefully even more insights that I haven't thought of.
+- This is is an ongoing project by design.  The more I discover, the more I explore! 
+- So far, I have gathered and compiled channel statistics and video information using the YouTube API from 21 of my favorite True Crime YouTube channels.
+- I used spaCy to find names of perpetrators or victims of crimes from channel data
+- I created a new DataFrame with these names and each channel that covered that event
+- I have a top 20 list of the most covered cases
+- The in-progress part of this project: gathering location data for crimes covered in these channels. I will use Tableau to visualize incidents on a map, hoping to uncover patterns
+- The dataset is now shared on [Kaggle](https://www.kaggle.com/datasets/mhapich/true-crime-channel-statistics) 
 
 Here are some Seaborn plots from the notebook where I created the dataset:
 <img src="Assests/Images/channelSubs.png" width="800"> 
