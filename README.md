@@ -3,24 +3,14 @@
 I am working on projects every day this summer.  If you would like to see updates to my work more often than my portfolio is updated, please visit [my GitHub](https://github.com/mhapich?tab=repositories).<br>
 If you have questions or would like to collaborate on anything, please message me on LinkedIn!
 
-
-
-# Project 1: True Crime YouTubers
-## [True Crime YouTube Channel Statistics](https://github.com/mhapich/trueCrime)
-- This is is an ongoing project by design.  The more I discover, the more I explore! 
-- So far, I have gathered and compiled channel statistics and video information using the YouTube API from 21 of my favorite True Crime YouTube channels.
-- I used spaCy to find names of perpetrators or victims of crimes from channel data
-- I created a new DataFrame with these names and each channel that covered that event
-- I have a top 20 list of the most covered cases
-- The in-progress part of this project: gathering location data for crimes covered in these channels. I will use Tableau to visualize incidents on a map, hoping to uncover patterns
-- The dataset is now shared on [Kaggle](https://www.kaggle.com/datasets/mhapich/true-crime-channel-statistics) 
-
-Here are some Seaborn plots from the notebook where I created the dataset:
-<img src="Assests/Images/channelSubs.png" width="800"> 
-
-<img src="Assests/Images/channelVidTotals.png" width="800">
-
+# Project 1: Python to Tableau - Stock Market Prices
+## [Stock Market Data and Dashboard](https://github.com/mhapich/nasdaq.git)
+- In this repo you can see my Jupyter notebook, and also the many files that were containing the most recent stock prices and information up to that date.
+- Using Pandas, I created several of the features I would later be using in Tableau.
+- Here is a screenshot of my [Tableau interactive dashboard](https://public.tableau.com/views/StockMarketInteractiveDashboard/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) where you can change the dates and the company on which to focus.
+<img src="Assests/Images/stocksDashboard.png" width="800">
 <br><br>
+
 
 # Project 2: Cruelty-Free Company List
 ## [Cruelty Free Cosmetic Brands](https://github.com/mhapich/cruelty_free_products.git)
@@ -45,12 +35,23 @@ Here, you can search for a brand to find out more about it, or you can filter th
 <br><br>
 
 
-# Project 3: Python to Tableau - Stock Market Prices
-## [Stock Market Data and Dashboard](https://github.com/mhapich/nasdaq.git)
-- In this repo you can see my Jupyter notebook, and also the many files that were containing the most recent stock prices and information up to that date.
-- Using Pandas, I created several of the features I would later be using in Tableau.
-- Here is a screenshot of my [Tableau interactive dashboard](https://public.tableau.com/views/StockMarketInteractiveDashboard/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) where you can change the dates and the company on which to focus.
-<img src="Assests/Images/stocksDashboard.png" width="800">
+
+
+# Project 3: True Crime YouTubers
+## [True Crime YouTube Channel Statistics](https://github.com/mhapich/trueCrime)
+- This is is an ongoing project by design.  The more I discover, the more I explore! 
+- So far, I have gathered and compiled channel statistics and video information using the YouTube API from 21 of my favorite True Crime YouTube channels.
+- I used spaCy to find names of perpetrators or victims of crimes from channel data
+- I created a new DataFrame with these names and each channel that covered that event
+- I have a top 20 list of the most covered cases
+- The in-progress part of this project: gathering location data for crimes covered in these channels. I will use Tableau to visualize incidents on a map, hoping to uncover patterns
+- The dataset is now shared on [Kaggle](https://www.kaggle.com/datasets/mhapich/true-crime-channel-statistics) 
+
+Here are some Seaborn plots from the notebook where I created the dataset:
+<img src="Assests/Images/channelSubs.png" width="800"> 
+
+<img src="Assests/Images/channelVidTotals.png" width="800">
+
 <br><br>
 
 
