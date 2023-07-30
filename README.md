@@ -15,7 +15,6 @@ Feel free to explore my repositories, and don't hesitate to reach out for collab
 
 ---
 
-Feel free to modify it to align with your personal preferences and style. Best of luck with your job search and your data journey!
 
 # Project 1: Python to Tableau - Stock Market Prices
 ## [Stock Market Data and Dashboard](https://github.com/mhapich/nasdaq.git)
