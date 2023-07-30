@@ -1,7 +1,21 @@
-# Michelle Hapich's Portfolio
+# Michelle Hapich
 
-I am working on projects every day this summer.  If you would like to see updates to my work more often than my portfolio is updated, please visit [my GitHub](https://github.com/mhapich?tab=repositories).<br>
-If you have questions or would like to collaborate on anything, please message me on LinkedIn!
+
+👋 Welcome to my Github portfolio!
+
+I'm a passionate and dedicated data professional with a background in education, transitioning from being a mathematics and computer science teacher to pursuing a career as a data scientist and data analyst. My journey into the world of data began when I earned a Professional Data Scientist Certificate from Datacamp, and I'm currently working on my final project to complete the Google Data Analytics Professional Certificate.
+
+Throughout my teaching career, I had the privilege of guiding students in AP Calculus, Python, and Java, which cultivated my strong analytical and problem-solving skills. Now, I'm excited to apply my knowledge and expertise to tackle real-world data challenges, deriving valuable insights and making data-driven decisions.
+
+My Github showcases a collection of projects, analyses, and visualizations that demonstrate my proficiency in data manipulation, statistical analysis, and machine learning. With each endeavor, I strive to embrace the power of data in driving innovation and problem-solving across various domains.
+
+I am actively seeking opportunities in the data science and data analytics field, where I can leverage my diverse background and data expertise to contribute meaningfully to projects and teams.
+
+Feel free to explore my repositories, and don't hesitate to reach out for collaboration or job opportunities. Let's connect and explore the endless possibilities of data together!
+
+---
+
+Feel free to modify it to align with your personal preferences and style. Best of luck with your job search and your data journey!
 
 # Project 1: Python to Tableau - Stock Market Prices
 ## [Stock Market Data and Dashboard](https://github.com/mhapich/nasdaq.git)
