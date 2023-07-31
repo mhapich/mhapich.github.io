@@ -3,7 +3,7 @@
 
 👋 Welcome to my Github portfolio!
 
-I'm a passionate and dedicated data professional with a background in education, transitioning from being a mathematics and computer science teacher to pursuing a career as a data scientist and data analyst. My journey into the world of data began when I earned a Professional Data Scientist Certificate from Datacamp, and I'm currently working on my final project to complete the Google Data Analytics Professional Certificate.
+I'm a passionate and dedicated data professional with a background in education, transitioning from being a mathematics and computer science teacher to pursuing a career as a data scientist and data analyst. My journey into the world of data began when I earned a Professional Data Scientist Certificate from Datacamp, and I'm currently working on my final project to complete the Google Data Analytics Professional Certificate.  Stop back soon for the new project! (Teaser...local housing prices)
 
 Throughout my teaching career, I had the privilege of guiding students in AP Calculus, Python, and Java, which cultivated my strong analytical and problem-solving skills. Now, I'm excited to apply my knowledge and expertise to tackle real-world data challenges, deriving valuable insights and making data-driven decisions.
 
@@ -20,7 +20,10 @@ Feel free to explore my repositories, and don't hesitate to reach out for collab
 ## [Stock Market Data and Dashboard](https://github.com/mhapich/nasdaq.git)
 - In this repo you can see my Jupyter notebook, and also the many files that were containing the most recent stock prices and information up to that date.
 - Using Pandas, I created several of the features I would later be using in Tableau.
+- I will soon be updating this project. The update will contain different stocks - stocks I own, plus vegan stocks.
+- The stock prices will be the most recent from Yahoo Finance.
 - Here is a screenshot of my [Tableau interactive dashboard](https://public.tableau.com/views/StockMarketInteractiveDashboard/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) where you can change the dates and the company on which to focus.
+- I will also be creating and linking a new, more original Tableau dashboard.
 <img src="Assests/Images/stocksDashboard.png" width="800">
 <br><br>
 
@@ -48,8 +51,6 @@ Here, you can search for a brand to find out more about it, or you can filter th
 <br><br>
 
 
-
-
 # Project 3: True Crime YouTubers
 ## [True Crime YouTube Channel Statistics](https://github.com/mhapich/trueCrime)
 - This is is an ongoing project by design.  The more I discover, the more I explore! 
@@ -68,17 +69,7 @@ Here are some Seaborn plots from the notebook where I created the dataset:
 <br><br>
 
 
-# Project 4: Student Data with Math Test Score Predictions
-## [End to End CI/CD Machine Learning Project](https://github.com/mhapich/CICDnewProject.git)
-- This was the project I used to learn modular coding, complete with a Flask app, and modules for data ingestion, data transformation, and model training.
-- The application can be deployed using continuous integration and continuous deployment pipelines in AWS cloud
-- The machine learning app can also be deployed using Github Actions with Azure App Service
-
-<img src="Assests/Images/flaskAppStudentPreds.png" width="800">
-<br><br>
-
-
-# Project 5: Data cleaning for district students' transcripts
+# Project 4: Data cleaning for district students' transcripts
 
 ## [Transcript data cleaning](https://github.com/mhapich/transcript_cleaning.git)
 
