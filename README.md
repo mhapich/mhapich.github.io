@@ -3,7 +3,7 @@
 
 👋 Welcome to my Github portfolio!
 
-I'm a passionate and dedicated data professional with a background in education, transitioning from being a mathematics and computer science teacher to pursuing a career as a data scientist and data analyst. My journey into the world of data began when I earned a Professional Data Scientist Certificate from Datacamp, and I'm currently working on my final project to complete the Google Data Analytics Professional Certificate.  Stop back soon for the new project! (Teaser...local housing prices)
+I'm a passionate and dedicated data professional with a background in education, transitioning from a career as a mathematics and computer science teacher to pursuing a career as a data scientist and data analyst. My journey into the world of data began when I earned a Professional Data Scientist Certificate from Datacamp, and I'm currently working on my final project to complete the Google Data Analytics Professional Certificate.  Stop back soon for the new project! (Teaser...local housing prices)
 
 Throughout my teaching career, I had the privilege of guiding students in AP Calculus, Python, and Java, which cultivated my strong analytical and problem-solving skills. Now, I'm excited to apply my knowledge and expertise to tackle real-world data challenges, deriving valuable insights and making data-driven decisions.
 
