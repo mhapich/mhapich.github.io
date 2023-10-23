@@ -1,17 +1,11 @@
 # Michelle Hapich
 
 
-👋 Welcome to my Github portfolio!
+👋 Welcome to my portfolio
 
-I'm a passionate and dedicated data professional with a background in education, transitioning from a career as a mathematics and computer science teacher to pursuing a career as a data scientist and data analyst. My journey into the world of data began when I earned a Professional Data Scientist Certificate from Datacamp, and I'm currently working on my final project to complete the Google Data Analytics Professional Certificate.  Stop back soon for the new project! (Teaser...local housing prices)
+I'm passionate about data and all things math. I have a background in education and am transitioning from a career as a mathematics and computer science teacher to a career as a data professional. My journey into the world of data began when I discovered R helping a family friend in a nursing course. That led to my finding Datacamp and earning their Professional Data Scientist Certificate. At that point I was still developing my school district's computer science program, but it is now on its feet. This past summer I earned the Google Data Analytics Professional Certificate, and I just completed the last course of the Google Advanced Data Analytics Professional Certificate. The Capstone Project for that will be my new project #1, and will showcase not only my machine learning skills in Python, but also a structure that is essential in a business setting. Every project I completed followed a framework to help me document my steps along each stage, and included several executive summaries.
 
-Throughout my teaching career, I had the privilege of guiding students in AP Calculus, Python, and Java, which cultivated my strong analytical and problem-solving skills. Now, I'm excited to apply my knowledge and expertise to tackle real-world data challenges, deriving valuable insights and making data-driven decisions.
-
-My Github showcases a collection of projects, analyses, and visualizations that demonstrate my proficiency in data manipulation, statistical analysis, and machine learning. With each endeavor, I strive to embrace the power of data in driving innovation and problem-solving across various domains.
-
-I am actively seeking opportunities in the data science and data analytics field, where I can leverage my diverse background and data expertise to contribute meaningfully to projects and teams.
-
-Feel free to explore my repositories, and don't hesitate to reach out for collaboration or job opportunities. Let's connect and explore the endless possibilities of data together!
+Throughout my teaching career, I had the privilege of guiding students in AP Calculus, Python, and Java, which cultivated my strong analytical and problem-solving skills. Now, I'm excited to apply my knowledge and expertise to tackle real-world data challenges. My love of helping others to learn is surpassed only by my own love of learning. Throughout this journey I have used Coursera, Udemy, Kaggle, books, YouTube tutorials, and other platforms to learn Linux, Github, SQL, web-scraping, linear algebra, statistics, and more.  As much as I have learned, I know I am just barely down the tip of the iceberg. I look forward to putting these skills to work, and to continue to learn and grow in this field.
 
 ---
 # Project 1: Taxi Fare Predictions in New York City
