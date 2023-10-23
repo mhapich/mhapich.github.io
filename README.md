@@ -14,18 +14,29 @@ I am actively seeking opportunities in the data science and data analytics field
 Feel free to explore my repositories, and don't hesitate to reach out for collaboration or job opportunities. Let's connect and explore the endless possibilities of data together!
 
 ---
+# Project 1: Taxi Fare Predictions in New York City
+## Google Advanced Data Analytics Projects 
+(this project is in progress and will be completed with notebook(s) and other files on GitHub by Oct. 25th)
+
+**Overview**
+The goal of this project was to ........... This project utilized yellow taxi trips taken in New York City during 2017. The final ..... model performed with 86% ....... determining ........ Based on the model, the duration, distance, and cost of the trip were most influential in determining a generous tipper (>20%) vs a non-generous one (<20%). 
+
+**Business Understanding**
+According to salary.com the average salary for a New York Taxi Driver is around $45,000. This salary is significantly low compared to a median rent value of $6,500 per month. It is important to understand what factors encourage riders to leave tips in order to help drivers obtain a livable wage. 
+
+**Data Understanding**
+The NYC Taxi and Limousine Commission data came from 
+NYC.gov
+. The data consisted of approximately 408k unique trips and 18 features. The features included information on trip duration and destination, vendor used, toll information, and payment type. The bar chart below shows the breakdown of how many generous tippers (>20%) versus non-generous tippers that exist in the data set. 
 
 
-# Project 1: Python to Tableau - Stock Market Prices
-## [Stock Market Data and Dashboard](https://github.com/mhapich/nasdaq.git)
-- In this repo you can see my Jupyter notebook, and also the many files that were containing the most recent stock prices and information up to that date.
-- Using Pandas, I created several of the features I would later be using in Tableau.
-- I will soon be updating this project. The update will contain different stocks - stocks I own, plus vegan stocks.
-- The stock prices will be the most recent from Yahoo Finance.
-- Here is a screenshot of my [Tableau interactive dashboard](https://public.tableau.com/views/StockMarketInteractiveDashboard/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) where you can change the dates and the company on which to focus.
-- I will also be creating and linking a new, more original Tableau dashboard.
-<img src="Assests/Images/stocksDashboard.png" width="800">
-<br><br>
+
+
+
+
+
+
+
 
 
 # Project 2: Cruelty-Free Company List
@@ -51,39 +62,18 @@ Here, you can search for a brand to find out more about it, or you can filter th
 <br><br>
 
 
-# Project 3: True Crime YouTubers
-## [True Crime YouTube Channel Statistics](https://github.com/mhapich/trueCrime)
-- This is is an ongoing project by design.  The more I discover, the more I explore! 
-- So far, I have gathered and compiled channel statistics and video information using the YouTube API from 21 of my favorite True Crime YouTube channels.
-- I used spaCy to find names of perpetrators or victims of crimes from channel data
-- I created a new DataFrame with these names and each channel that covered that event
-- I have a top 20 list of the most covered cases
-- The in-progress part of this project: gathering location data for crimes covered in these channels. I will use Tableau to visualize incidents on a map, hoping to uncover patterns
-- The dataset is now shared on [Kaggle](https://www.kaggle.com/datasets/mhapich/true-crime-channel-statistics) 
-
-Here are some Seaborn plots from the notebook where I created the dataset:
-<img src="Assests/Images/channelSubs.png" width="800"> 
-
-<img src="Assests/Images/channelVidTotals.png" width="800">
-
+# Project 3: Python to Tableau - Stock Market Prices
+## [Stock Market Data and Dashboard](https://github.com/mhapich/nasdaq.git)
+- In this repo you can see my Jupyter notebook, and also the many files that were containing the most recent stock prices and information up to that date.
+- Using Pandas, I created several of the features I would later be using in Tableau.
+- I will soon be updating this project. The update will contain different stocks - stocks I own, plus vegan stocks.
+- The stock prices will be the most recent from Yahoo Finance.
+- Here is a screenshot of my [Tableau interactive dashboard](https://public.tableau.com/views/StockMarketInteractiveDashboard/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) where you can change the dates and the company on which to focus.
+- I will also be creating and linking a new, more original Tableau dashboard.
+<img src="Assests/Images/stocksDashboard.png" width="800">
 <br><br>
 
 
-# Project 4: Data cleaning for district students' transcripts
-
-## [Transcript data cleaning](https://github.com/mhapich/transcript_cleaning.git)
-
-- This repo contains only the notebook file used to show the tasks done to find potential problems in data entry in our district's student information system (SIS).  
-- There were problems with some data in the SIS that were causing discrepancies in the class ranks.  I assisted the technology supervisor and guidance department in finding these problems.  I exported this notebook as a simple to navigate pdf with notes on students whose information needed changed.
-- I had to anonymize student identifiers to publish this notebook.  Because of this, the original csv file containing student names and id numbers is not included in this repo.
-
-<span style="color:#8c150d">Some topics for further analysis...</span>
-![EDA](/Assests/Images/EDA.PNG)
-![](/Assests/Images/gpa.PNG)
-<br>
-<span style="color:#8c150d">One of the data entry mistakes:</span>
-![Some main findings for admin](/Assests/Images/fix_anomalies.PNG)
-<br><br><br>
 
 
 
