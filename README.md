@@ -8,20 +8,18 @@ I'm passionate about data and all things math. I have a background in education 
 Throughout my teaching career, I had the privilege of guiding students in AP Calculus, Python, and Java, which cultivated my strong analytical and problem-solving skills. Now, I'm excited to apply my knowledge and expertise to tackle real-world data challenges. My love of helping others to learn is surpassed only by my own love of learning. Throughout this journey I have used Coursera, Udemy, Kaggle, books, YouTube tutorials, and other platforms to learn Linux, Github, SQL, web-scraping, linear algebra, statistics, and more.  As much as I have learned, I know I am just barely down the tip of the iceberg. I look forward to putting these skills to work, and to continue to learn and grow in this field.
 
 ---
-# Project 1: Taxi Fare Predictions in New York City
-## Google Advanced Data Analytics Projects 
-(this project is in progress and will be completed with notebook(s) and other files on GitHub by Oct. 25th)
+# Project 1: Employee Churn at Salifort Motors
+## [Google Advanced Data Analytics Project](https://github.com/mhapich/salifort-project) 
+(This project is in progress and is being updated as items are completed. Also, the descriptions below have some "place-holder" sentences that I will fill in once I finish building the model(s).)
 
 **Overview**
-The goal of this project was to ........... This project utilized yellow taxi trips taken in New York City during 2017. The final ..... model performed with 86% ....... determining ........ Based on the model, the duration, distance, and cost of the trip were most influential in determining a generous tipper (>20%) vs a non-generous one (<20%). 
+The goal of this project is to help Salifort Motors determine how to keep a higher percentage of its employees.   This project is utilizing a survey the company gave to close to 14000 employees. The final ..... model performed with 86% ....... determining ........ Based on the model, the duration, distance, and cost of the trip were most influential in determining a generous tipper (>20%) vs a non-generous one (<20%). 
 
 **Business Understanding**
-According to salary.com the average salary for a New York Taxi Driver is around $45,000. This salary is significantly low compared to a median rent value of $6,500 per month. It is important to understand what factors encourage riders to leave tips in order to help drivers obtain a livable wage. 
+The current rate of turnover of employees at Salifor Motors is close to 25%. This is costly both monetarily and in time and resources due to recruitment and training of new employees. Gauging the most influential factors leading to employee turnover (either quitting or being terminated) can give insights into what can possibly be changed to retain more satisfied employees.
 
 **Data Understanding**
-The NYC Taxi and Limousine Commission data came from 
-NYC.gov
-. The data consisted of approximately 408k unique trips and 18 features. The features included information on trip duration and destination, vendor used, toll information, and payment type. The bar chart below shows the breakdown of how many generous tippers (>20%) versus non-generous tippers that exist in the data set. 
+A survey was created and administered by HR at Salifort Motors. The data consisted of approximately 15000 rows and 10 features. The features included employee satisfaction and employee evaluation scores, tenure at the company, salary categories, and whether the employee had been promoted in the last 5 years. Shown here are some of the relationships found in the data.
 
 
 
