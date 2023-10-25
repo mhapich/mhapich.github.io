@@ -14,6 +14,7 @@ In this GitHub repository, you will find my PACE document with my project propos
 
 **Overview**
 The goal of this project is to help Salifort Motors determine how to keep a higher percentage of its employees.  This project utilizes data from a survey the company gave to close to 14000 employees. 
+
 **Business Understanding**
 The current rate of turnover of employees at Salifor Motors is close to 25%. This is costly both monetarily and in time and resources due to recruitment and training of new employees. Gauging the most influential factors leading to employee turnover (either quitting or being terminated) can give insights into what can possibly be changed to retain more satisfied employees.
 
