@@ -27,7 +27,7 @@ The final model I chose to use to predict whether an employee would leave or not
 
 <img src="Assests/Images/tenureAndHours.PNG" width="600">
 
-<img src="Assests/Images/confusionMatrix.PNG" width="600">
+<img src="Assests/Images/confusionMatrix.PNG" width="450">
 
 
 # Project 2: Cruelty-Free Company List
