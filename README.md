@@ -5,30 +5,29 @@
 
 I'm passionate about data and all things math. I have a background in education and am transitioning from a career as a mathematics and computer science teacher to a career as a data professional. My journey into the world of data began when I discovered R helping a family friend in a nursing course. That led to my finding Datacamp and earning their Professional Data Scientist Certificate. At that point I was still developing my school district's computer science program, but it is now on its feet. This past summer I earned the Google Data Analytics Professional Certificate, and I just completed the last course of the Google Advanced Data Analytics Professional Certificate. The Capstone Project for that will be my new project #1, and will showcase not only my machine learning skills in Python, but also a structure that is essential in a business setting. Every project I completed followed a framework to help me document my steps along each stage, and included several executive summaries.
 
-Throughout my teaching career, I had the privilege of guiding students in AP Calculus, Python, and Java, which cultivated my strong analytical and problem-solving skills. Now, I'm excited to apply my knowledge and expertise to tackle real-world data challenges. My love of helping others to learn is surpassed only by my own love of learning. Throughout this journey I have used Coursera, Udemy, Kaggle, books, YouTube tutorials, and other platforms to learn Linux, Github, SQL, web-scraping, linear algebra, statistics, and more.  As much as I have learned, I know I am just barely down the tip of the iceberg. I look forward to putting these skills to work, and to continue to learn and grow in this field.
+Throughout my teaching career, my favorite courses to teach were AP Calculus, Python, and Java, which cultivated my strong analytical and problem-solving skills. Now, I'm excited to apply my knowledge and expertise to tackle real-world data challenges. My love of helping others to learn is surpassed only by my own love of learning. Throughout this journey I have used Coursera, Udemy, Kaggle, books, YouTube tutorials, and other platforms to learn Linux, Github, SQL, web-scraping, linear algebra, statistics, and more.  As much as I have learned, I know I am just barely down the tip of the iceberg. I look forward to putting these skills to work, and to continue to learn and grow in this field.
 
 ---
 # Project 1: Employee Churn at Salifort Motors
 ## [Google Advanced Data Analytics Project](https://github.com/mhapich/salifort-project) 
-(This project is in progress and is being updated as items are completed. Also, the descriptions below have some "place-holder" sentences that I will fill in once I finish building the model(s).)
+In this GitHub repository, you will find my PACE document with my project proposal, all of my analysis in a Jupyter notebook, and my executive summary.
 
 **Overview**
-The goal of this project is to help Salifort Motors determine how to keep a higher percentage of its employees.   This project is utilizing a survey the company gave to close to 14000 employees. The final ..... model performed with 86% ....... determining ........ Based on the model, the duration, distance, and cost of the trip were most influential in determining a generous tipper (>20%) vs a non-generous one (<20%). 
-
+The goal of this project is to help Salifort Motors determine how to keep a higher percentage of its employees.  This project utilizes data from a survey the company gave to close to 14000 employees. 
 **Business Understanding**
 The current rate of turnover of employees at Salifor Motors is close to 25%. This is costly both monetarily and in time and resources due to recruitment and training of new employees. Gauging the most influential factors leading to employee turnover (either quitting or being terminated) can give insights into what can possibly be changed to retain more satisfied employees.
 
 **Data Understanding**
-A survey was created and administered by HR at Salifort Motors. The data consisted of approximately 15000 rows and 10 features. The features included employee satisfaction and employee evaluation scores, tenure at the company, salary categories, and whether the employee had been promoted in the last 5 years. Shown here are some of the relationships found in the data.
+A survey was created and administered by HR at Salifort Motors. The data collected consists of approximately 15000 rows and 10 features. The features include employee satisfaction and employee evaluation scores, tenure at the company, salary categories, and whether the employee had been promoted in the last 5 years. Shown below are some of the relationships found in the data.
 
+**Findings with Explanation**
+The final model I chose to use to predict whether an employee would leave or not was a Random Forest. This model performed well in validation, and on test data it correctly predicted 93% of those employees who left. Among the most influential features in explaining employee turnover were employee satisfaction, monthly hours worked, and number of projects to which the employee contributes. Now that the company is aware of these factors, there are steps that can be taken to increase employee happiness and tenure. 
 
+<img src="Assests/Images/satisfactionHist.PNG" width="800">
 
+<img src="Assests/Images/tenureAndHours.PNG" width="600">
 
-
-
-
-
-
+<img src="Assests/Images/confusionMatrix.PNG" width="600">
 
 
 # Project 2: Cruelty-Free Company List
