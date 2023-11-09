@@ -30,6 +30,8 @@ The final model I chose to use to predict whether an employee would leave or not
 
 <img src="Assests/Images/confusionMatrix.PNG" width="450">
 
+<img src="Assests/Images/SalifortExecSumm.PNG" width="400">
+
 
 # Project 2: Cruelty-Free Company List
 ## [Cruelty Free Cosmetic Brands](https://github.com/mhapich/cruelty_free_products.git)
