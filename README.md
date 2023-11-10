@@ -3,9 +3,6 @@
 
 👋 Welcome to my portfolio
 
-I'm passionate about data and all things math. I have a background in education and am transitioning from a career as a mathematics and computer science teacher to a career as a data professional. My journey into the world of data began when I discovered R helping a family friend in a nursing course. That led to my finding Datacamp and earning their Professional Data Scientist Certificate. At that point I was still developing my school district's computer science program, but it is now on its feet. This past summer I earned the Google Data Analytics Professional Certificate, and I just completed the last course of the Google Advanced Data Analytics Professional Certificate. The Capstone Project for that will be my new project #1, and will showcase not only my machine learning skills in Python, but also a structure that is essential in a business setting. Every project I completed followed a framework to help me document my steps along each stage, and included several executive summaries.
-
-Throughout my teaching career, my favorite courses to teach were AP Calculus, Python, and Java, which cultivated my strong analytical and problem-solving skills. Now, I'm excited to apply my knowledge and expertise to tackle real-world data challenges. My love of helping others to learn is surpassed only by my own love of learning. Throughout this journey I have used Coursera, Udemy, Kaggle, books, YouTube tutorials, and other platforms to learn Linux, Github, SQL, web-scraping, linear algebra, statistics, and more.  As much as I have learned, I know I am just barely down the tip of the iceberg. I look forward to putting these skills to work, and to continue to learn and grow in this field.
 
 ---
 # Project 1: Employee Churn at Salifort Motors
