@@ -53,16 +53,12 @@ Here, you can search for a brand to find out more about it, or you can filter th
 <br><br>
 
 
-# Project 3: Python to Tableau - Stock Market Prices
-## [Stock Market Data and Dashboard](https://github.com/mhapich/nasdaq.git)
-- In this repo you can see my Jupyter notebook, and also the many files that were containing the most recent stock prices and information up to that date.
-- Using Pandas, I created several of the features I would later be using in Tableau.
-- I will soon be updating this project. The update will contain different stocks - stocks I own, plus vegan stocks.
-- The stock prices will be the most recent from Yahoo Finance.
-- Here is a screenshot of my [Tableau interactive dashboard](https://public.tableau.com/views/StockMarketInteractiveDashboard/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) where you can change the dates and the company on which to focus.
-- I will also be creating and linking a new, more original Tableau dashboard.
-<img src="Assests/Images/stocksDashboard.png" width="800">
-<br><br>
+# Project 3: Long Beach Crime Statistics vs. Apartment Prices
+## []()
+- This project will be updated with daily progress
+- The end goal is to be able to find the safest areas with the most affordable cost of living
+
+<img src="Assests/Images/LBplanning.PNG" width = 400>
 
 
 
