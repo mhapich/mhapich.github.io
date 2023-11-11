@@ -23,7 +23,7 @@ The final model I chose to use to predict whether an employee would leave or not
 
 <img src="Assests/Images/satisfactionHist.PNG" width="700">
 
-<img src="Assests/Images/tenureAndHours.PNG" width="300"> <img src="Assests/Images/confusionMatrix.PNG" width="180">
+<img src="Assests/Images/tenureAndHours.PNG" width="100"> <img src="Assests/Images/confusionMatrix.PNG" width="90">
 
 <img src="Assests/Images/SalifortExecSumm.PNG" width="610">
 
