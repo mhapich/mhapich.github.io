@@ -56,7 +56,7 @@ Here, you can search for a brand to find out more about it, or you can filter th
 - This project will be updated with daily progress
 - The end goal is to be able to find the safest areas with the most affordable cost of living
 
-<img src="Assests/Images/LBplanning.PNG" width = 410/> <img src="Assests/Images/LBplanning2.PNG" width = 400/>
+<img src="Assests/Images/LBplanning.PNG" width = 420/> <img src="Assests/Images/LBplanning2.PNG" width = 390/>
 
 
 
