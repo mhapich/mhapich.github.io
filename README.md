@@ -23,7 +23,7 @@ The final model I chose to use to predict whether an employee would leave or not
 
 <img src="Assests/Images/satisfactionHist.PNG" width="700">
 
-<img src="Assests/Images/tenureAndHours.PNG" width="100"> <img src="Assests/Images/confusionMatrix.PNG" width="90">
+<img src="Assests/Images/tenureAndHours.PNG" width="150"> <img src="Assests/Images/confusionMatrix.PNG" width="120">
 
 <img src="Assests/Images/SalifortExecSumm.PNG" width="610">
 
@@ -56,7 +56,7 @@ Here, you can search for a brand to find out more about it, or you can filter th
 - This project will be updated with daily progress
 - The end goal is to be able to find the safest areas with the most affordable cost of living
 
-<img src="Assests/Images/LBplanning.PNG" width = 300/> <img src="Assests/Images/LBplanning2.PNG" width = 240/>
+<img src="Assests/Images/LBplanning.PNG" width = 300/> <img src="Assests/Images/LBplanning2.PNG" width = 270/>
 
 
 
