@@ -21,11 +21,11 @@ A survey was created and administered by HR at Salifort Motors. The data collect
 **Findings with Explanation**
 The final model I chose to use to predict whether an employee would leave or not was a Random Forest. This model performed well in validation, and on test data it correctly predicted 93% of those employees who left. Among the most influential features in explaining employee turnover were employee satisfaction, monthly hours worked, and number of projects to which the employee contributes. Now that the company is aware of these factors, there are steps that can be taken to increase employee happiness and tenure. 
 
-<img src="Assests/Images/satisfactionHist.PNG" width="800">
+<img src="Assests/Images/satisfactionHist.PNG" width="700">
 
 <img src="Assests/Images/tenureAndHours.PNG" width="500"> <img src="Assests/Images/confusionMatrix.PNG" width="400">
 
-<img src="Assests/Images/SalifortExecSumm.PNG" width="400">
+<img src="Assests/Images/SalifortExecSumm.PNG" width="610">
 
 
 # Project 2: Cruelty-Free Company List
