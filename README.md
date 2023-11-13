@@ -3,11 +3,11 @@
 
 👋 Welcome to my portfolio <br><br>
 
-Over the years I have done many projects as part of many classes. One of these is Project #1. I completed several other smaller projects throughout the two Google Data Analytics Certificates I earned  Copies of those Jupyter notebooks are in a separate GitHub Repo. <br>
-What is highlighted below is:
-- one capstone project that not only includes my EDA, model building, and model evaluation, but also a planning document and an executive summary that would be presented to stakeholders
-- one dataset that I have created and uploaded to Kaggle - my own original idea to help with my own need to find cruelty free products
-- one project that illustrates my use of four platforms to plan and execute quality deliverables - Notion for planning and organizing, VSCode to build a spider, a Jupyter notebook for data aggregation, visualization, and analysis, and Tableau for more interactive visualizations
+Over the years I have done many projects to practice and apply skills I have learned. Below you will find just three of those that I would like to highlight. <br>
+A brief description of each project:
+- the capstone project from the Google Advanced Data Analytics Certificate - includes EDA, model building, model evaluation, and also a planning document and an executive summary that would be presented to stakeholders
+- one dataset that I have created and uploaded to Kaggle - my own original idea to help with a need to more easily find cruelty free products
+- one project that illustrates my use of four platforms to plan and execute quality deliverables - Notion for planning and organizing; VSCode to build a spider; Jupyter notebook for data aggregation, visualization, and analysis; Tableau for more interactive visualizations
 
 ---
 # Project 1: Employee Churn at Salifort Motors
