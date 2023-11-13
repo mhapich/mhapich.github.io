@@ -52,9 +52,13 @@ Here, you can search for a brand to find out more about it, or you can filter th
 
 
 # Project 3: Long Beach Crime Statistics vs. Apartment Prices
-## []()
+## [Long Beach Crime and Housing Analysis](https://github.com/mhapich/LongBeach)
 - This project will be updated with daily progress
 - The end goal is to be able to find the safest areas with the most affordable cost of living
+- Project has been planned in *Notion* (images below)
+- Used Scrapy to build a spider to get all url's from the month-by-month table on the main crime statistics page; wrote results to csv to use in Python notebook
+- Used tabula package to extract statistics from pdfs
+- Compiled data from all tables (all pages of all months) into one dataframe, adding the month and year as new columns
 
 <img src="Assests/Images/LBplanning.PNG" width = 300/> <img src="Assests/Images/LBplanning2.PNG" width = 291/>
 
