@@ -59,6 +59,10 @@ Here, you can search for a brand to find out more about it, or you can filter th
 # Project 3: Long Beach Crime Statistics vs. Apartment Prices
 ## [Long Beach Crime and Housing Analysis](https://github.com/mhapich/LongBeach)
 - This project will be updated with daily progress
+- BOY OH BOY - Lesson to the kids out there - once you get a dataset created, WRITE IT TO A FILE! I "coulda, shoulda, woulda" but had to step away from the project for 3 days. I wanted to verify correct month/year combo for each url written in, and when I went back to my project, I saw "no such link exists".  😭 Alllll of the links I had gotten (and DID write to a file), are now 404s.  The message from longbeach.gov's website is: "The City of Long Beach has learned that it was subject to a potential cyber security incident on November 14, 2023. Through the initial investigation, the City determined a network security incident occurred. While public safety services are not impacted, other city services may be affected for several days. Out of an abundance of caution, systems will be taken offline effective immediately during the investigation and potential remediation."
+- I will leave my original description and progress up to this point here, and keep this as Project 3, hoping to be able to finish this once the City of Long Beach (hopefully) restores the content I was using
+
+  
 - The end goal is to be able to find the safest areas with the most affordable cost of living
 - Project has been planned in *Notion* (images below)
 - Used Scrapy to build a spider to get all url's from the month-by-month table on the main crime statistics page; wrote results to csv to use in Python notebook
